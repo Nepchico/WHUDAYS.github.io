@@ -218,12 +218,12 @@ export const people = {
   'Narcissus': { avatar: '/avatars/narcissus.jpeg' },
   '南瓜牛奶麻鼠': { avatar: QQ('3089559133') },
   '涅普智可': {
-    avatar: '/avatars/涅普智可.png',
+    avatar: 'https://images.nepchico.top/cdn-cgi/image/width=500,quality=100,format=auto/Nepchico/avatar.png',
     github: 'Nepchico',
     mapByNameAliases: ['Nepchico'],
     mapByEmailAliases: ['Nepchico@gmail.com', '85654042+Nepchico@users.noreply.github.com'],
   },
-  '涅普智可(23HQ)': { avatar: '/avatars/涅普智可(23HQ).png' },      // 用最弱智的方法实现一人双头像！（x）
+  '涅普智可(23HQ)': { avatar: 'https://images.nepchico.top/cdn-cgi/image/width=500,quality=100,format=auto/Nepchico/avatar_23HQ.png' },      // 用最弱智的方法实现一人双头像！（x）
 
   // P
   '平板': { avatar: '/avatars/平板.jpeg' },
